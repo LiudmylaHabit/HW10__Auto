@@ -1,0 +1,7 @@
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\bin\Debug\AutoPractice_03_09.exe.config
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\bin\Debug\AutoPractice_03_09.exe
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\bin\Debug\AutoPractice_03_09.pdb
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\obj\Debug\AutoPractice_03_09.csprojAssemblyReference.cache
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\obj\Debug\AutoPractice_03_09.csproj.CoreCompileInputs.cache
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\obj\Debug\AutoPractice_03_09.exe
+D:\Книги\ИТ Тест\devEdu\VS\Auto_Practice_03_09\AutoPractice_03_09\AutoPractice_03_09\obj\Debug\AutoPractice_03_09.pdb
